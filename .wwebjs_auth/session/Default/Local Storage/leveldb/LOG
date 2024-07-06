@@ -1,0 +1,6 @@
+2024/07/07-01:42:46.826 b403 Reusing MANIFEST /Users/abdullahshahbaz/Documents/Projects/whatsapp_bot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2024/07/07-01:42:46.826 b403 Recovering log #4
+2024/07/07-01:42:46.827 b403 Reusing old log /Users/abdullahshahbaz/Documents/Projects/whatsapp_bot/.wwebjs_auth/session/Default/Local Storage/leveldb/000004.log 
+2024/07/07-01:43:48.187 13603 Level-0 table #8: started
+2024/07/07-01:43:48.198 13603 Level-0 table #8: 13763 bytes OK
+2024/07/07-01:43:48.208 13603 Delete type=0 #4
