@@ -1,53 +1,39 @@
-2024/07/07-01:40:33.264 1ff03 Reusing MANIFEST /Users/abdullahshahbaz/Documents/Projects/whatsapp_bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/07-01:40:33.264 1ff03 Recovering log #857
-2024/07/07-01:40:33.293 1ff03 Reusing old log /Users/abdullahshahbaz/Documents/Projects/whatsapp_bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000857.log 
-2024/07/07-01:40:34.642 15903 Level-0 table #874: started
-2024/07/07-01:40:34.653 15903 Level-0 table #874: 391502 bytes OK
-2024/07/07-01:40:34.666 15903 Delete type=0 #857
-2024/07/07-01:40:34.666 15903 Manual compaction at level-0 from '\x004\x00\x00\x00' @ 72057594037927935 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at '\x004\x00\x00\x05' @ 2848070 : 1
-2024/07/07-01:40:34.666 15903 Compacting 1@0 + 0@1 files
-2024/07/07-01:40:34.680 15903 Generated table #875@0: 6434 keys, 188771 bytes
-2024/07/07-01:40:34.685 15903 Generated table #876@0: 161 keys, 3248 bytes
-2024/07/07-01:40:34.685 15903 Compacted 1@0 + 0@1 files => 192019 bytes
-2024/07/07-01:40:34.692 15903 compacted to: files[ 0 2 16 0 0 0 0 ]
-2024/07/07-01:40:34.692 15903 Delete type=2 #874
-2024/07/07-01:40:34.692 15903 Manual compaction at level-0 from '\x004\x00\x00\x05' @ 2848070 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/07/07-01:40:36.634 1670b Compacting 1@1 + 11@2 files
-2024/07/07-01:40:36.702 1670b Generated table #877@1: 58286 keys, 2225488 bytes
-2024/07/07-01:40:36.728 1670b Generated table #878@1: 4472 keys, 2151902 bytes
-2024/07/07-01:40:36.753 1670b Generated table #879@1: 3092 keys, 2153425 bytes
-2024/07/07-01:40:36.779 1670b Generated table #880@1: 3333 keys, 2154388 bytes
-2024/07/07-01:40:36.836 1670b Generated table #881@1: 22011 keys, 2208992 bytes
-2024/07/07-01:40:36.908 1670b Generated table #882@1: 30025 keys, 2242127 bytes
-2024/07/07-01:40:36.939 1670b Generated table #883@1: 4394 keys, 2119651 bytes
-2024/07/07-01:40:36.965 1670b Generated table #884@1: 3644 keys, 2118900 bytes
-2024/07/07-01:40:37.045 1670b Generated table #885@1: 84554 keys, 2229996 bytes
-2024/07/07-01:40:37.148 1670b Generated table #886@1: 102451 keys, 2253822 bytes
-2024/07/07-01:40:37.154 1670b Generated table #887@1: 1821 keys, 40943 bytes
-2024/07/07-01:40:37.154 1670b Compacted 1@1 + 11@2 files => 21899634 bytes
-2024/07/07-01:40:37.164 1670b compacted to: files[ 0 1 16 0 0 0 0 ]
-2024/07/07-01:40:37.165 1670b Delete type=2 #854
-2024/07/07-01:40:37.165 1670b Delete type=2 #851
-2024/07/07-01:40:37.165 1670b Delete type=2 #852
-2024/07/07-01:40:37.165 1670b Delete type=2 #853
-2024/07/07-01:40:37.165 1670b Delete type=2 #862
-2024/07/07-01:40:37.165 1670b Delete type=2 #863
-2024/07/07-01:40:37.165 1670b Delete type=2 #875
-2024/07/07-01:40:37.165 1670b Delete type=2 #861
-2024/07/07-01:40:37.165 1670b Delete type=2 #864
-2024/07/07-01:40:37.165 1670b Delete type=2 #865
-2024/07/07-01:40:37.165 1670b Delete type=2 #867
-2024/07/07-01:40:37.165 1670b Delete type=2 #866
-2024/07/07-01:40:50.130 1ff03 Compacting 1@1 + 5@2 files
-2024/07/07-01:40:50.226 1ff03 Generated table #888@1: 102213 keys, 2253113 bytes
-2024/07/07-01:40:50.320 1ff03 Generated table #889@1: 101816 keys, 2252772 bytes
-2024/07/07-01:40:50.413 1ff03 Generated table #890@1: 102368 keys, 2254237 bytes
-2024/07/07-01:40:50.484 1ff03 Generated table #891@1: 74742 keys, 1650347 bytes
-2024/07/07-01:40:50.484 1ff03 Compacted 1@1 + 5@2 files => 8410469 bytes
-2024/07/07-01:40:50.490 1ff03 compacted to: files[ 0 0 15 0 0 0 0 ]
-2024/07/07-01:40:50.491 1ff03 Delete type=2 #868
-2024/07/07-01:40:50.491 1ff03 Delete type=2 #869
-2024/07/07-01:40:50.491 1ff03 Delete type=2 #855
-2024/07/07-01:40:50.491 1ff03 Delete type=2 #876
-2024/07/07-01:40:50.491 1ff03 Delete type=2 #870
-2024/07/07-01:40:50.491 1ff03 Delete type=2 #871
+2024/07/07-03:06:53.812 fa0b Reusing MANIFEST /Users/abdullahshahbaz/Documents/Projects/whatsapp_bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/07-03:06:53.812 fa0b Recovering log #893
+2024/07/07-03:06:53.851 fa0b Reusing old log /Users/abdullahshahbaz/Documents/Projects/whatsapp_bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000893.log 
+2024/07/07-03:06:55.425 9d03 Level-0 table #914: started
+2024/07/07-03:06:55.444 9d03 Level-0 table #914: 510679 bytes OK
+2024/07/07-03:06:55.457 9d03 Delete type=0 #893
+2024/07/07-03:06:55.458 9d03 Manual compaction at level-0 from '\x006\x00\x00\x00' @ 72057594037927935 : 1 .. '\x007\x00\x00\x00' @ 0 : 0; will stop at '\x006\x00\x00\x05' @ 2878064 : 1
+2024/07/07-03:06:55.458 9d03 Compacting 1@0 + 0@1 files
+2024/07/07-03:06:55.474 9d03 Generated table #915@0: 8610 keys, 246910 bytes
+2024/07/07-03:06:55.478 9d03 Generated table #916@0: 368 keys, 5319 bytes
+2024/07/07-03:06:55.478 9d03 Compacted 1@0 + 0@1 files => 252229 bytes
+2024/07/07-03:06:55.487 9d03 compacted to: files[ 0 2 15 0 0 0 0 ]
+2024/07/07-03:06:55.487 9d03 Delete type=2 #914
+2024/07/07-03:06:55.487 fa0b Manual compaction at level-0 from '\x006\x00\x00\x05' @ 2878064 : 1 .. '\x007\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/07-03:06:57.463 fa0b Compacting 1@1 + 10@2 files
+2024/07/07-03:06:57.534 fa0b Generated table #917@1: 58715 keys, 2224988 bytes
+2024/07/07-03:06:57.561 fa0b Generated table #918@1: 5947 keys, 2154970 bytes
+2024/07/07-03:06:57.594 fa0b Generated table #919@1: 3113 keys, 2152320 bytes
+2024/07/07-03:06:57.623 fa0b Generated table #920@1: 3301 keys, 2155317 bytes
+2024/07/07-03:06:57.675 fa0b Generated table #921@1: 21310 keys, 2205530 bytes
+2024/07/07-03:06:57.740 fa0b Generated table #922@1: 30610 keys, 2246442 bytes
+2024/07/07-03:06:57.766 fa0b Generated table #923@1: 4457 keys, 2118931 bytes
+2024/07/07-03:06:57.791 fa0b Generated table #924@1: 3907 keys, 2123197 bytes
+2024/07/07-03:06:57.869 fa0b Generated table #925@1: 80484 keys, 2223694 bytes
+2024/07/07-03:06:57.964 fa0b Generated table #926@1: 102515 keys, 2254544 bytes
+2024/07/07-03:06:57.970 fa0b Generated table #927@1: 2778 keys, 62087 bytes
+2024/07/07-03:06:57.970 fa0b Compacted 1@1 + 10@2 files => 21922020 bytes
+2024/07/07-03:06:57.979 fa0b compacted to: files[ 0 1 16 0 0 0 0 ]
+2024/07/07-03:06:57.980 fa0b Delete type=2 #897
+2024/07/07-03:06:57.980 fa0b Delete type=2 #902
+2024/07/07-03:06:57.980 fa0b Delete type=2 #903
+2024/07/07-03:06:57.980 fa0b Delete type=2 #901
+2024/07/07-03:06:57.980 fa0b Delete type=2 #915
+2024/07/07-03:06:57.980 fa0b Delete type=2 #900
+2024/07/07-03:06:57.980 fa0b Delete type=2 #904
+2024/07/07-03:06:57.980 fa0b Delete type=2 #905
+2024/07/07-03:06:57.980 fa0b Delete type=2 #898
+2024/07/07-03:06:57.980 fa0b Delete type=2 #906
+2024/07/07-03:06:57.980 fa0b Delete type=2 #899

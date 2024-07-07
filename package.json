@@ -4,7 +4,8 @@
   "description": "This is a whatsapp bot.",
   "main": "./src/server.js",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "start": "node ./src/server.js"
   },
   "author": "Abdullah Shahbaz",
   "license": "ISC",
